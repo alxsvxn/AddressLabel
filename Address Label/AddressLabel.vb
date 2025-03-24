@@ -2,6 +2,7 @@
 'RCET 2265
 'Spring 2025
 'Address Label
+'https://github.com/alxsvxn/AddressLabel.git
 
 Option Strict On
 Option Explicit On
